@@ -47,7 +47,7 @@ def turn_place_into_coord(place):
 
 # из html вытаскивает значения
 def extract_data_from_html(conf_raw):    
-    name_raw = re.search('<a href="(.*?)">((.|\n)*?)<', conf_raw[0])
+    name_raw = re.search('<a href="(.*?)">((.|\n)*?)<', conf_raw[0]) # это костыльно потому что я забыла про флаг DOTALL
     name = name_raw.group(2)
     name = name.strip()
                 
@@ -91,11 +91,11 @@ def main():
         print('An Error occured')
     else:
         #read it all in
-        myfile = f.read()
+        myfile = f.read().decode('utf-8')
         #build a document model
         soup = BeautifulSoup(myfile,'html.parser')
     #парсит сайт
-        all_conf_raw = re.findall('<td colspan="2">((.|\n)*?)<\/td>', str(soup))
+        all_conf_raw = re.findall('<td colspan="2">((.|\n)*?)<\/td>', str(soup)) # это костыльно потому что я забыла про флаг DOTALL
         if len(all_conf_raw) > 1:
             for conf_raw in all_conf_raw[1:]: #именно с 1! можно ограничить кол-во
                 name, link, place, start_date, end_date = extract_data_from_html(

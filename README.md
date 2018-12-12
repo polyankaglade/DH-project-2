@@ -8,7 +8,7 @@ We took the data from [linguistlist.org](https://linguistlist.org/callconf/brows
 
 step|responsible
 :---|:---
-Find a list ofconferences| Alina
+Find a list of conferences| Alina
 Get names, places and dates| Anna
 Transform places to coordinates| Alina
 Some data managment| everyone
@@ -25,5 +25,6 @@ America and Europe are pretty crowded with conferences.
 + Create a bot for TG (to make it handy).
 
 
-*project made by Alina Kuznetsova, Anna Polyanskaya and Egor Yatsishin.
-HSE, 2018*
+*project made by Alina Kuznetsova, Anna Polyanskaya and Egor Yatsishin.*
+
+HSE, 2018

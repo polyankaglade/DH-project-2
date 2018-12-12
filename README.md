@@ -25,5 +25,5 @@ America and Europe are pretty crowded with conferences.
 + Create a bot for TG (to make it handy).
 
 
-project made by Alina Kuznetsova, Anna Polyanskaya and Egor Yatsishin.
-HSE, 2018
+*project made by Alina Kuznetsova, Anna Polyanskaya and Egor Yatsishin.
+HSE, 2018*

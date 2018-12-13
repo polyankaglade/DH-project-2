@@ -8,13 +8,13 @@ We took the data from [linguistlist.org](https://linguistlist.org/callconf/brows
 
 step|notes
 :---|:---
-Find a list of conferences|
+Find a list of conferences|[here it is](https://linguistlist.org/callconf/browse-current.cfm?type=Conf)
 Get names, places and dates| [code](/code)
 Make a csv| [updated 13.12.2018 12:30](/output)
 Transform places to coordinates| not needed
-Some data managment| 250 lines, selected randomly
+Some data managment| due to ArcGIS restrictions for free use
 Create a map in ArcGis| couple different versions
-Do some dEsIgN| user VS analysis
+Do some dEsIgN| user VS analisys
 Fill in all the info|
 
 ## What does the map show?

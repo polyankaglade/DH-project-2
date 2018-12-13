@@ -9,7 +9,8 @@ We took the data from [linguistlist.org](https://linguistlist.org/callconf/brows
 step|notes
 :---|:---
 Find a list of conferences|
-Get names, places and dates| updated 13.12.2018 12:30
+Get names, places and dates| [code](/code)
+Make a csv| [updated 13.12.2018 12:30](/output)
 Transform places to coordinates| not needed
 Some data managment| 250 lines, selected randomly
 Create a map in ArcGis| couple different versions

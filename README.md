@@ -6,15 +6,15 @@ We took the data from [linguistlist.org](https://linguistlist.org/callconf/brows
 
 ## How did we do it?
 
-step|responsible
+step|notes
 :---|:---
-Find a list of conferences| Alina
-Get names, places and dates| Anna
-Transform places to coordinates| Alina
-Some data managment| everyone
-Create a map in ArcGis| ??
-Do some dEsIgN| ??
-Fill in all the info| ??
+Find a list of conferences|
+Get names, places and dates| updated 13.12.2018 12:30
+Transform places to coordinates| not needed
+Some data managment| 250 lines, selected randomly
+Create a map in ArcGis| couple different versions
+Do some dEsIgN| user VS analisys
+Fill in all the info|
 
 ## What does the map show?
 America and Europe are pretty crowded with conferences.

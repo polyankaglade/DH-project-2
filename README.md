@@ -14,7 +14,7 @@ Make a csv| [updated 13.12.2018 12:30](/output)
 Transform places to coordinates| not needed
 Some data managment| 250 lines, selected randomly
 Create a map in ArcGis| couple different versions
-Do some dEsIgN| user VS analisys
+Do some dEsIgN| user VS analysis
 Fill in all the info|
 
 ## What does the map show?

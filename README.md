@@ -1,4 +1,4 @@
-# DH-project-2: a map of linguistic conferences
+# DH project №2: a map of linguistic conferences
 
 The map itself can be found here: [The Result™](). For the details see [the description]().
 We took the data from [linguistlist.org](https://linguistlist.org/callconf/browse-current.cfm?type=Conf).

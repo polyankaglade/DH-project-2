@@ -10,7 +10,7 @@ step|notes
 :---|:---
 Find a list of conferences|[here it is](https://linguistlist.org/callconf/browse-current.cfm?type=Conf)
 Get names, places, dates, calls for papers deadline, etc| [code](/code)
-Make a csv| [updated 13.12.2018 12:30](/output)
+Make a csv| [updated 13.12.2018 22:30](/output)
 Transform places to coordinates| not needed
 Some data managment| due to ArcGIS restrictions for free use
 Create a map in ArcGis| couple different versions

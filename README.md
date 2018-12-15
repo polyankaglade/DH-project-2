@@ -21,7 +21,7 @@ Do some dEsIgN| user VS analysis
 Fill in all the info|
 
 ## What does the map show?
-America and Europe are pretty crowded with conferences.
+See [the presentation](https://docs.google.com/presentation/d/1mFT9Dup5V5k8-6HbAY2NY8RT_F1tXFuZLN7mDAYItyA/edit?usp=sharing).
 
 ## Further work
 + Make it updatable

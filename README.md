@@ -25,7 +25,7 @@ See [the presentation](https://docs.google.com/presentation/d/1mFT9Dup5V5k8-6HbA
 
 ## Further work
 + Make it updatable
-+ Create a bot for TG (to make it handy).
++ Create a bot for TG (to make it handy)
 
 
 *project made by Alina Kuznetsova, Anna Polyanskaya and Egor Yatsishin.*
